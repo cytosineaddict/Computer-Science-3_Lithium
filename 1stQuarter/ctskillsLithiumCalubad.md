@@ -19,3 +19,4 @@ Step 2: Identify three to four Sub-Problems
 Students delay the queue by not thinking of what to order before queueing.
 The money management is too slow and done by hand.
 The system needed to track food items and ingredients is non existent.
+The whole thing comes down to a severe issue in terms of line management and logistical flaws.
